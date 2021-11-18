@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reSizer", "reSizer.csproj", "{570D455D-A93B-442E-8F7B-DBDEB7650BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{570D455D-A93B-442E-8F7B-DBDEB7650BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570D455D-A93B-442E-8F7B-DBDEB7650BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570D455D-A93B-442E-8F7B-DBDEB7650BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570D455D-A93B-442E-8F7B-DBDEB7650BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {767EF35C-5608-4B3E-98D2-7B8F50137090}
+	EndGlobalSection
+EndGlobal
